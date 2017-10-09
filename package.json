@@ -1,11 +1,11 @@
 {
-  "name": "@segment/integration-attribution",
+  "name": "@astronomerio/integration-attribution",
   "version": "1.2.2",
   "description": "Attribution server-side integration",
-  "author": "Segment <friends@segment.com>",
+  "author": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/segmentio/integration-attribution"
+    "url": "https://github.com/astronomer-integrations/integration-attribution"
   },
   "main": "lib/index.js",
   "scripts": {
